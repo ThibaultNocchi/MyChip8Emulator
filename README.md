@@ -5,7 +5,7 @@ My try at a Chip-8 emulator, in Python with Pygame.
 
 You need to have Python 3 installed (no prints are used, maybe it could work in Python 2 but I didn't try it and I don't know much of the differences between those 2 versions). You also need the Tkinter library to browse your files to choose a ROM (but I think it is installed by default) and Pygame for the rest of the UI (you can install it with PyPi).
 
-You then just have to run the script without any argument and it's done.
+You then just have to download CHIP8.py and beep.ogg in the same folder, run the script without any argument and it's done.
 
 To interact with Chip-8, there are 16 available keys, in a square configuration. I mapped them as followed:
 
